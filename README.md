@@ -1,7 +1,7 @@
 # Sistema de Registro Universitario (Prolog y Haskell) - Practica 1
 
 **Estudiante:** Miguelangel Calderón Figueredo 
-**Materia:** Lenguajes de programación
+**Materia:** ST0244 - Lenguajes de programación
 **Profesor:** Alexander Narváez 
 **Universidad:** Eafit
 **Fecha:** Marzo 2026
